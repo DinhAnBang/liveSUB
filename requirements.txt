@@ -1,0 +1,5 @@
+numpy>=1.26
+soundcard>=0.4
+webrtcvad-wheels>=2.0.14
+faster-whisper>=1.1
+argostranslate>=1.9
